@@ -9,5 +9,5 @@ Basic commands in java
 |scanner.nextLine| works like a scanf in C|
 |if/else/else if| the same thing like as in C|
 |Parameter passing| the same thing like as in C example:scanner = new Scanner(System.in);|
-|Boolean| 
+|Boolean| true or false
 
